@@ -1,9 +1,14 @@
 # Hi, I'm Sai Balaji Jammu 👋
 
-🎯 Data Scientist & ML Engineer based in Hyderabad, India  
-🐍 I build end-to-end data & machine learning projects using Python  
-🔍 Passionate about turning raw data into actionable business insights  
-📬 Open to Data Analyst / ML Engineer/ Data Scientist roles
+🚀 Aspiring AI Engineer | Machine Learning Engineer | Data Scientist
+
+📍 Hyderabad, India
+
+💡 Building end-to-end AI, Machine Learning, Deep Learning, and Generative AI solutions
+
+📊 Passionate about solving real-world problems through data-driven decision making and intelligent systems
+
+📬 Open to Data Scientist, ML Engineer, AI Engineer, and GenAI Engineer opportunities
 
 ---
 
@@ -17,6 +22,10 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121D33?style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
@@ -24,6 +33,8 @@
 
 | Project | Description | Tools |
 |---|---|---|
+| [HR Helpdesk Assistant](https://github.com/saibalajijammu/HR_helpdesk) | RAG-based Generative AI assistant that answers employee queries using company policies and documents through context-aware responses. | LangChain, RAG, LLMs, Vector DB, Streamlit |
+| [AI-Powered Vehicle Damage Detection System](https://github.com/saibalajijammu/car_damage_detection) | Deep learning-based computer vision application that detects and classifies vehicle damage from uploaded images with real-time predictions. | PyTorch, Computer Vision, Streamlit |
 | [AtliQ Hotels Analysis](https://github.com/saibalajijammu/AtliQ-Hotels-Data-Analysis-Project) | EDA on hotel booking data to drive revenue insights | Python, Pandas, Jupyter |
 | [Expense Tracker](https://github.com/saibalajijammu/expense-tracking-system-python) | Full-stack app with Streamlit frontend + Pytest coverage | Python, Streamlit, Pytest |
 | [Credit Risk Model](https://github.com/saibalajijammu/ml_project_creditrisk) | ML classification model for predicting credit risk | Python, Scikit-learn |
@@ -32,6 +43,27 @@
 
 ---
 
+## 📈 Areas of Interest
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Computer Vision
+- Retrieval-Augmented Generation (RAG)
+- MLOps
+- Data Science
+
+---
+
+## 🎯 Current Focus
+
+- ✔ Advanced Deep Learning Projects
+- ✔ Generative AI Applications
+- ✔ Production-Ready ML Systems
+- ✔ MLOps & Model Deployment
+- ✔ Real-World AI Solutions
+
+---
 
 ## 🤝 Connect With Me
 
